@@ -1,6 +1,6 @@
 {
   "name": "async-fetch",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "dependencies": {
     "@babel/register": "^7.10.5",
     "@testing-library/jest-dom": "^4.2.4",
@@ -57,5 +57,6 @@
   "bugs": {
     "url": "https://github.com/lere01/async-fetch/issues"
   },
-  "homepage": "https://github.com/lere01/async-fetch#readme"
+  "homepage": "https://github.com/lere01/async-fetch#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
