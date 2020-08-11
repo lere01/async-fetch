@@ -1,5 +1,5 @@
 {
-  "name": "async-fetch",
+  "name": "@lere/async-fetch",
   "version": "1.0.0",
   "dependencies": {
     "@babel/register": "^7.10.5",
