@@ -1,5 +1,5 @@
 {
-  "name": "@lere/async-fetch",
+  "name": "esinki-fetch",
   "version": "1.0.0",
   "dependencies": {
     "@babel/register": "^7.10.5",
