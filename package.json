@@ -36,5 +36,27 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A wrap around the \"Fetch\" API and react hooks to asynchronous api calls. It makes use of useState, useEffect, useCallback. While the asynchronous call is going on, you have access to its state (pending or done) and value (or error) once it is done. This affords you the opportunity to conditionally render components or elements.",
+  "main": "Index.ts",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lere01/async-fetch.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "api",
+    "calls",
+    "useCallback",
+    "useState",
+    "useEffect",
+    "react"
+  ],
+  "author": "Faith O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lere01/async-fetch/issues"
+  },
+  "homepage": "https://github.com/lere01/async-fetch#readme"
 }
